@@ -1,0 +1,79 @@
+/lib64/ld-linux-x86-64.so.2
+perror
+__stack_chk_fail
+__printf_chk
+fread
+stat
+closedir
+fopen
+strftime
+__fprintf_chk
+__libc_start_main
+stderr
+__cxa_finalize
+localtime
+readdir
+fclose
+opendir
+__snprintf_chk
+libc.so.6
+GLIBC_2.33
+GLIBC_2.4
+GLIBC_2.34
+GLIBC_2.2.5
+GLIBC_2.3.4
+_ITM_deregisterTMCloneTable
+__gmon_start__
+_ITM_registerTMCloneTable
+PTE1
+u+UH
+AUATI
+D$81
+D$8dH+
+H[]A\A]
+[]A\
+H9L$0u
+AVfH
+AUATUH
+4$dH
+)D$ 
+[]A\A]A^A_
+sync.log
+%Y-%m-%d %H:%M:%S
+[%s] %s: %s
+missing
+size differs
+checksum differs
+opendir source
+%s/%s
+NEEDS SYNC: %s (%s)
+Usage: %s <source_dir> <dest_dir>
+%d file(s) need synchronization
+9*3$"
+GCC: (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
+.shstrtab
+.interp
+.note.gnu.property
+.note.gnu.build-id
+.note.ABI-tag
+.gnu.hash
+.dynsym
+.dynstr
+.gnu.version
+.gnu.version_r
+.rela.dyn
+.rela.plt
+.init
+.plt.got
+.plt.sec
+.text
+.fini
+.rodata
+.eh_frame_hdr
+.eh_frame
+.init_array
+.fini_array
+.dynamic
+.data
+.bss
+.comment

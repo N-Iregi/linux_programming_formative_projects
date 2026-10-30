@@ -1,0 +1,7 @@
+
+data_sync_v2:     file format elf64-x86-64
+
+SYMBOL TABLE:
+no symbols
+
+

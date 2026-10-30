@@ -1,0 +1,22 @@
+3c3,6
+<                  U fprintf@GLIBC_2.2.5
+---
+>                  U fclose@GLIBC_2.2.5
+>                  U fopen@GLIBC_2.2.5
+>                  U __fprintf_chk@GLIBC_2.3.4
+>                  U fread@GLIBC_2.2.5
+7a11
+>                  U localtime@GLIBC_2.2.5
+10c14
+<                  U printf@GLIBC_2.2.5
+---
+>                  U __printf_chk@GLIBC_2.3.4
+11a16,18
+>                  U __snprintf_chk@GLIBC_2.3.4
+>                  U __stack_chk_fail@GLIBC_2.4
+>                  U stat@GLIBC_2.33
+13c20,21
+<                  U strcmp@GLIBC_2.2.5
+---
+>                  U strftime@GLIBC_2.2.5
+>                  U time@GLIBC_2.2.5
