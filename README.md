@@ -6,10 +6,10 @@ A collection of four low-level C and Linux systems engineering projects covering
 
 ## Table of Contents
 
-1. [Project 1: ELF Binary Forensics & Comparative Threat Assessment](https://www.google.com/search?q=%23project-1-elf-binary-forensics--comparative-threat-assessment)
-2. [Project 2: Linux System Call Forensics & Execution Analysis](https://www.google.com/search?q=%23project-2-linux-system-call-forensics--execution-analysis)
-3. [Project 3: CPython Extension for High-Performance Data Analysis](https://www.google.com/search?q=%23project-3-cpython-extension-for-high-performance-data-analysis)
-4. [Project 4: Signal-Driven Linux Service Controller](https://www.google.com/search?q=%23project-4-signal-driven-linux-service-controller)
+1. Project 1: ELF Binary Forensics & Comparative Threat Assessment
+2. Project 2: Linux System Call Forensics & Execution Analysis
+3. Project 3: CPython Extension for High-Performance Data Analysis
+4. Project 4: Signal-Driven Linux Service Controller
 
 ---
 
