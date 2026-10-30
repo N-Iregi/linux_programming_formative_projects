@@ -238,7 +238,7 @@ This module implements a CPython C API extension (`c_python_pybaseline`) to acce
 
 ### Compilation & Integration Setup
 
-#### `setup.py`
+#### `build.py`
 
 ```python
 from setuptools import setup, Extension
@@ -265,7 +265,7 @@ setup(
 rm -f *.so
 
 # Build C Extension in-place
-python3 setup.py build_ext --inplace
+python3 build.py build_ext --inplace
 
 ```
 
